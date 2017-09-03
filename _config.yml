@@ -1,0 +1,18 @@
+name: mydeedamania
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+author: {}
+color:
+  lightness: 0.5669187506583796
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  saturation: 0.8094806600849798
+  brandStrength: 0.835731517718111
+  rhythmicContrast: 0.1495697046978329
